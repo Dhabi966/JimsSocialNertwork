@@ -1,0 +1,25 @@
+{
+    "name": "jimssocialnetwork",
+    "version": "1.0.0",
+    "description": "## A social media app using NoSQL",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://https://github.com/Dhabi966/JimsSocialNetwork"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+      
+    },
+    "homepage": "https://github.com/Dhabi966/JimsSocialNetwork#readme",
+    "dependencies": {
+      "express": "^4.17.3",
+      "mongoose": "^6.2.9"
+    }
+  }
