@@ -7,7 +7,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Questions](#questions)
+- [Github](#github)
 
 ## Description:
 
@@ -41,11 +41,9 @@ npm start
 
 #### Walkthrough Video
 
-[Click me to see the demo video!](https://drive.google.com/file/d/1TcGjb2JJ9fwJFiiqIXlkN-cwGFIhPjpX/view)
+[Click to see the demo video!](https://drive.google.com/file/d/1TcGjb2JJ9fwJFiiqIXlkN-cwGFIhPjpX/view)
 
 #### Insomnia Screenshot
-
-image.png
 
 
 ## License
@@ -54,7 +52,7 @@ image.png
 This project is licensed under MIT, for more information please visit [this website](https://opensource.org/licenses/MIT)
 
 
-## Questions?
+## Github Information
 
 Please feel free to contact me if you have any questions:
 
