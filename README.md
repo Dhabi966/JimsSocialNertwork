@@ -56,6 +56,6 @@ This project is licensed under MIT, for more information please visit [this webs
 
 ## Questions?
 
-Please feel free to contact me if you need any further information:
+Please feel free to contact me if you have any questions:
 
 - [Github Profile](https://github.com/Dhabi966)
